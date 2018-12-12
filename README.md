@@ -1,3 +1,4 @@
+[![](https://codescene.io/projects/3847/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3847/jobs/latest-successful/results)
 # Ionic
 
 [Ionic](https://ionicframework.com/) is the open-source mobile app development framework that makes it easy to
